@@ -22,7 +22,7 @@ Requirements:
 * return a JSON obj with the format
 
 ```json
-{"name": "query" }.
+{"name": "query" }
 ```
 
 * Include testing to assert the following:
